@@ -1,0 +1,9 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+#canvas_board {
+    background: white;
+    border: 0.5rem solid black;
+}
