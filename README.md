@@ -18,3 +18,4 @@ Welcome to Galactic Assault, a dynamic, canvas-based shooting game developed usi
 ## Setup
 
 1. Clone the repository to your local machine using:
+https://github.com/dshibu2/Galactic-Assault.git
